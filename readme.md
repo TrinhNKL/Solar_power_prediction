@@ -4,3 +4,5 @@ Test pull command code
 end
 
 test
+
+newclone test 
